@@ -5,3 +5,4 @@
 ## The source design files in this repository will be manually updated by the maintainers
 *.afdesign
 *.ai
+*.afdesign~lock~
